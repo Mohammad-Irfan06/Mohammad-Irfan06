@@ -1,40 +1,60 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammad Irfan
+# Mohammad Irfan
 
-### Software Developer • Full Stack Developer • AI Engineer • AI & ML Student • Product Builder
+### Software Developer • Full Stack Developer • AI Engineer
 
-<p>
-Building AI-powered software, SaaS platforms, automation solutions,<br>
-and modern full stack web applications.
-</p>
+### AI & ML Student • Product Builder
 
 <br>
 
-## 🚀 Currently Building
-
-🟢 AnimeWorld – Next-Generation Anime Platform
-
-🟢 AI-Powered SaaS Applications
-
-🟢 AI Automation Solutions
-
-🟢 Full Stack Web Applications
-
-🟢 Premium Business Websites
-
-🟢 Personal Portfolio Website
+> Building AI-powered software, SaaS platforms, automation solutions, and modern web applications.
 
 <br>
 
-<p>
-<a href="https://your-portfolio.com">🌐 Portfolio</a> •
-<a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> •
-<a href="mailto:your.email@example.com">📧 Email</a> •
-<a href="https://leetcode.com/your-username">🧑‍💻 LeetCode</a>
-</p>
+<table>
+<tr>
+<td align="center">
+
+### 🚀 Currently Building
+
+AnimeWorld
+
+AI SaaS Applications
+
+AI Automation Solutions
+
+Full Stack Web Applications
+
+Premium Business Websites
+
+Personal Portfolio Website
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://your-portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/your-username">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
+
+---
 
 ---
 
