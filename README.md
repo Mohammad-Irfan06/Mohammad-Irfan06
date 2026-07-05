@@ -250,3 +250,52 @@ Currently building AI-powered SaaS products, automation tools, and modern full-s
 - 💡 Smart India Hackathon (SIH) – Internal Hackathon Participant
 
 ---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+<h2 align="center">🌱 Current Focus</h2>
+
+<div align="center">
+
+🧠 AI Engineering • ⚙️ Full Stack Development • ☁️ Cloud Computing • 🏗️ System Design • 🚀 SaaS Development • 🤝 Open Source
+
+</div>
+
+---
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://your-portfolio.com">🌐 Portfolio</a> •
+<a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> •
+<a href="mailto:your.email@example.com">📧 Email</a> •
+<a href="https://leetcode.com/your-username">🧑‍💻 LeetCode</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
