@@ -228,3 +228,25 @@ Currently building AI-powered SaaS products, automation tools, and modern full-s
 </table>
 
 ---
+
+<h2 align="center">💼 Experience</h2>
+
+### 🚀 Software Development
+
+- Building modern Full Stack Web Applications
+- Developing AI-powered software and automation solutions
+- Designing responsive and scalable user interfaces
+- Creating real-world software projects with modern technologies
+
+<br>
+
+<h2 align="center">🏆 Certifications</h2>
+
+- ☁️ Google Cloud Skills Boost – Generative AI
+- 🗄️ HackerRank – SQL (Basic)
+- 🧠 NPTEL – Human Computer Interaction (HCI)
+- 🤖 NPTEL – AI in Human Resource Management
+- 🐍 Udemy – The Complete Python Pro Bootcamp
+- 💡 Smart India Hackathon (SIH) – Internal Hackathon Participant
+
+---
