@@ -38,10 +38,6 @@ and modern full stack web applications.
 
 ---
 
-
-
-
-
 <!-- ========================= ABOUT ME ========================= -->
 
 <h2 align="center">👨‍💻 About Me</h2>
