@@ -1,35 +1,38 @@
-<div align="center">
+<!-- ========================= ABOUT ME ========================= -->
 
-# MOHAMMAD IRFAN
+<h2 align="center">👨‍💻 About Me</h2>
 
-### Software Developer • Full Stack Developer • AI Engineer • AI & ML Student • Product Builder
-
-<p>
-Building AI-powered software, SaaS platforms, automation solutions,<br>
-and modern web applications.
+<p align="center">
+Passionate <b>Software Developer</b> and <b>AI & ML Student</b> focused on building modern software, scalable full stack applications, AI-powered solutions, and automation systems.
 </p>
 
 <br>
 
-### 🚀 Currently Building
+<table align="center">
+<tr>
+<td>
 
-🟢 AnimeWorld – Next-Generation Anime Platform
+### 🚀 What I Do
 
-🟢 AI-Powered SaaS Applications
+- 💻 Build Full Stack Web Applications
+- 🤖 Develop AI-Powered Solutions
+- ⚡ Create Automation Workflows
+- 🌐 Design Modern Business Websites
+- 📱 Develop Responsive User Experiences
 
-🟢 AI Automation Solutions
+</td>
 
-🟢 Full Stack Web Applications
+<td>
 
-🟢 Premium Business Websites
+### 🌱 Currently Learning
 
-🟢 Personal Portfolio Website
+- Data Structures & Algorithms
+- System Design
+- Backend Development
+- Cloud Computing
+- Artificial Intelligence
+- SaaS Architecture
 
-<br>
-
-[🌐 Portfolio](https://your-portfolio.com) •
-[💼 LinkedIn](https://linkedin.com/in/your-linkedin) •
-[📧 Email](mailto:your.email@example.com) •
-[🧑‍💻 LeetCode](https://leetcode.com/your-username)
-
-</div>
+</td>
+</tr>
+</table>
