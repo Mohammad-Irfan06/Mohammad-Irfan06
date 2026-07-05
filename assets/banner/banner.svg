@@ -1,1 +1,132 @@
+<!-- Aurora blobs, slow drifting -->
+<g filter="url(#softBlur)">
+  <ellipse cx="260" cy="120" rx="360" ry="230" fill="url(#auroraBlue)">
+    <animate attributeName="cx" values="260;340;260" dur="18s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="120;170;120" dur="14s" repeatCount="indefinite"/>
+  </ellipse>
 
+  <ellipse cx="1340" cy="380" rx="400" ry="250" fill="url(#auroraPurple)">
+    <animate attributeName="cx" values="1340;1260;1340" dur="20s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="380;330;380" dur="16s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <ellipse cx="820" cy="60" rx="300" ry="170" fill="url(#auroraTeal)">
+    <animate attributeName="cx" values="820;900;820" dur="22s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <ellipse cx="1500" cy="90" rx="240" ry="160" fill="url(#auroraPurple)" opacity="0.7">
+    <animate attributeName="cy" values="90;150;90" dur="15s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <ellipse cx="120" cy="430" rx="260" ry="170" fill="url(#auroraBlue)" opacity="0.6">
+    <animate attributeName="cx" values="120;180;120" dur="19s" repeatCount="indefinite"/>
+  </ellipse>
+</g>
+
+<!-- Floating small gradient blobs -->
+<g filter="url(#blobBlur)" opacity="0.55">
+  <circle cx="420" cy="90" r="10" fill="#60A5FA">
+    <animate attributeName="cy" values="90;70;90" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1180" cy="440" r="8" fill="#A78BFA">
+    <animate attributeName="cy" values="440;415;440" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1460" cy="260" r="7" fill="#67E8F9">
+    <animate attributeName="cy" values="260;240;260" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="250" r="6" fill="#C4B5FD">
+    <animate attributeName="cy" values="250;230;250" dur="10s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- Subtle particles -->
+<g fill="#ffffff">
+  <circle cx="200" cy="80" r="1.6" opacity="0.5">
+    <animate attributeName="opacity" values="0.1;0.6;0.1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1400" cy="150" r="1.4" opacity="0.4">
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="60" r="1.5" opacity="0.5">
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1050" cy="440" r="1.3" opacity="0.4">
+    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="320" cy="420" r="1.5" opacity="0.4">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1550" cy="400" r="1.4" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="6.2s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- Glass Card -->
+<g filter="url(#cardShadow)">
+  <rect x="330" y="55" width="940" height="390" rx="28" fill="url(#cardFill)" stroke="url(#cardStroke)" stroke-width="1.4"/>
+</g>
+<rect x="332" y="57" width="936" height="386" rx="26" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+
+<!-- Inner soft top highlight -->
+<rect x="330" y="55" width="940" height="120" rx="28" fill="#ffffff" opacity="0.03"/>
+
+<!-- Name -->
+<text x="800" y="168" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="url(#nameGradient)" letter-spacing="1.5">
+  MOHAMMAD IRFAN
+</text>
+
+<!-- Role -->
+<text x="800" y="208" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#93C5FD" letter-spacing="1.2">
+  Software Developer
+</text>
+
+<!-- Sub roles -->
+<text x="800" y="246" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16.5" font-weight="400" fill="#CBD5E1" letter-spacing="0.4">
+  Full Stack Developer &#8226; AI Engineer
+</text>
+<text x="800" y="272" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16.5" font-weight="400" fill="#CBD5E1" letter-spacing="0.4">
+  AI &amp; ML Student &#8226; Product Builder
+</text>
+
+<!-- Divider -->
+<line x1="640" y1="298" x2="960" y2="298" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1"/>
+
+<!-- Tagline -->
+<text x="800" y="330" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="300" fill="#94A3B8" letter-spacing="0.3">
+  Building AI-powered software, SaaS platforms, automation solutions,
+</text>
+<text x="800" y="352" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="300" fill="#94A3B8" letter-spacing="0.3">
+  and modern web applications.
+</text>
+
+<!-- Pill Buttons -->
+<g font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">
+  <!-- Portfolio -->
+  <a href="#">
+    <rect x="418" y="382" width="168" height="46" rx="23" fill="url(#pillFill)" stroke="url(#pillStroke)" stroke-width="1.2"/>
+    <text x="502" y="411" text-anchor="middle" fill="#E2E8F0">Portfolio</text>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="#">
+    <rect x="606" y="382" width="168" height="46" rx="23" fill="url(#pillFill)" stroke="url(#pillStroke)" stroke-width="1.2"/>
+    <text x="690" y="411" text-anchor="middle" fill="#E2E8F0">LinkedIn</text>
+  </a>
+
+  <!-- Email -->
+  <a href="#">
+    <rect x="794" y="382" width="168" height="46" rx="23" fill="url(#pillFill)" stroke="url(#pillStroke)" stroke-width="1.2"/>
+    <text x="878" y="411" text-anchor="middle" fill="#E2E8F0">Email</text>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="#">
+    <rect x="982" y="382" width="168" height="46" rx="23" fill="url(#pillFill)" stroke="url(#pillStroke)" stroke-width="1.2"/>
+    <text x="1066" y="411" text-anchor="middle" fill="#E2E8F0">LeetCode</text>
+  </a>
+</g>
+
+<!-- subtle fade-in overlay for premium entrance feel -->
+<rect x="0" y="0" width="1600" height="500" fill="#0B1120">
+  <animate attributeName="opacity" values="1;0;0" dur="1.4s" fill="freeze"/>
+</rect>
