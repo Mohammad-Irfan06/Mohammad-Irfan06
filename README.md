@@ -121,3 +121,110 @@ Git • GitHub • VS Code • Postman • Docker • Figma
 </p>
 
 ---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎬 AnimeWorld
+
+A modern anime platform focused on delivering a premium user experience with clean UI, responsive design, advanced search, watchlist, and scalable architecture.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • API
+
+🔗 Live Demo *(Coming Soon)*
+
+📂 Source Code *(Private)*
+
+</td>
+
+<td width="50%">
+
+### 🌐 Business Website
+
+A premium business website focused on modern UI/UX, responsive layouts, SEO, and high-converting landing pages for businesses.
+
+**Tech Stack**
+
+React • Tailwind CSS • JavaScript
+
+🔗 Live Demo *(Coming Soon)*
+
+📂 Source Code *(Private)*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌾 AgroAssist
+
+AI-powered farming advisor that helps farmers with crop guidance, Firebase authentication, and smart recommendations.
+
+**Tech Stack**
+
+Flutter • Firebase
+
+🔗 Live Demo *(Coming Soon)*
+
+📂 Source Code
+
+</td>
+
+<td width="50%">
+
+### 🤖 EMO
+
+An AI-based emotional support application with voice interaction, reminders, chat, music, and wellness features.
+
+**Tech Stack**
+
+Python • AI
+
+🔗 Live Demo *(Coming Soon)*
+
+📂 Source Code
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⌨️ Typing Speed Test
+
+Desktop application to measure typing speed and accuracy with real-time performance tracking.
+
+**Tech Stack**
+
+Python
+
+🔗 Live Demo *(Coming Soon)*
+
+📂 Source Code
+
+</td>
+
+<td width="50%">
+
+### 🚧 More Projects
+
+Currently building AI-powered SaaS products, automation tools, and modern full-stack applications.
+
+</td>
+
+</tr>
+
+</table>
+
+---
