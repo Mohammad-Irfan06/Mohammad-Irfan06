@@ -257,7 +257,7 @@ Currently building AI-powered SaaS products, automation tools, and modern full-s
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Irfan06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Irfan06&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -265,7 +265,7 @@ Currently building AI-powered SaaS products, automation tools, and modern full-s
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Mohammad-Irfan06&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
