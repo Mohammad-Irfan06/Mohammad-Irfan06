@@ -76,3 +76,48 @@ Passionate <b>Software Developer</b> and <b>AI & ML Student</b> focused on build
 </td>
 </tr>
 </table>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,mongodb,firebase,postgres" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" />
+
+</p>
+
+<p align="center">
+
+<strong>Languages</strong><br>
+Java • Python • C • JavaScript • SQL
+
+<br><br>
+
+<strong>Frontend</strong><br>
+HTML • CSS • React • Tailwind CSS
+
+<br><br>
+
+<strong>Backend</strong><br>
+Node.js • Express.js • REST APIs
+
+<br><br>
+
+<strong>Databases</strong><br>
+MongoDB • PostgreSQL • MySQL • Firebase
+
+<br><br>
+
+<strong>Tools</strong><br>
+Git • GitHub • VS Code • Postman • Docker • Figma
+
+</p>
+
+---
