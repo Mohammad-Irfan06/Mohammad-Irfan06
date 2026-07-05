@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner/banner.svg" width="100%" alt="Mohammad Irfan Banner"/>
+</p>
+
 <div align="center">
 
 # Mohammad Irfan
