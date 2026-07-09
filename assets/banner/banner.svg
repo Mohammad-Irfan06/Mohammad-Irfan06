@@ -261,12 +261,12 @@
   <!-- Modular Core Layout Context Matrix -->
   <g transform="translate(0, 395)">
     <!-- Context Indicator Label Descriptor -->
-    <text x="415" y="1" font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="11" fill="#5DA8FF" opacity="0.6" letter-spacing="3.5">CURRENTLY LEARNING :</text>
+    <text x="415" y="1" font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="11" fill="#5DA8FF" opacity="0.6" letter-spacing="2.5">CURRENTLY LEARNING :</text>
     
     <!-- Horizon Navigation Elements Stack -->
     <g font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="13" letter-spacing="2">
       <!-- Each text element uses independent keyframe animations tightly synchronized with the scan beam tracker -->
-      <text x="510" y="2" style="animation: glowSEO 15s ease-in-out infinite;">SEO</text>
+      <text x="582" y="2" style="animation: glowSEO 15s ease-in-out infinite;">SEO</text>
       <text x="582" y="2" style="animation: glowAzure 15s ease-in-out infinite;">AZURE</text>
       <text x="668" y="2" style="animation: glowCICD 15s ease-in-out infinite;">CI/CD</text>
       <text x="747" y="2" style="animation: glowMCP 15s ease-in-out infinite;">MCP</text>
