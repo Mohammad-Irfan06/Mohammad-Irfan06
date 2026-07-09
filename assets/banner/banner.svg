@@ -1,19 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" width="100%" height="100%">
   <defs>
-    <!-- Background Gradients & Filters -->
     <radialGradient id="bgGlitch" cx="50%" cy="50%" r="70%">
       <stop offset="0%" stop-color="#0b122c" />
       <stop offset="100%" stop-color="#050816" />
     </radialGradient>
 
-    <!-- Linear Gradient for Global Grid Depth -->
     <linearGradient id="gridFade" x1="0%" y1="100%" x2="0%" y2="0%">
       <stop offset="0%" stop-color="#050816" stop-opacity="1" />
       <stop offset="50%" stop-color="#050816" stop-opacity="0.3" />
       <stop offset="100%" stop-color="#050816" stop-opacity="0.8" />
     </linearGradient>
 
-    <!-- Glow Filter for High-End Bloom -->
     <filter id="bloom" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="12" result="blur1" />
       <feGaussianBlur stdDeviation="24" result="blur2" />
@@ -32,14 +29,11 @@
       </feMerge>
     </filter>
 
-    <!-- Master Typography Mask & Shimmer Base -->
-    <!-- Diagonal Luxury Titanium Shimmer Linear Gradient -->
     <linearGradient id="titaniumShine" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#334155" />
       <stop offset="15%" stop-color="#64748b" />
       <stop offset="30%" stop-color="#94a3b8" />
       <stop offset="42%" stop-color="#cbd5e1" />
-      <!-- The sharp watch-hand luxury reflection edge -->
       <stop offset="45%" stop-color="#ffffff" />
       <stop offset="47%" stop-color="#ffffff" />
       <stop offset="50%" stop-color="#A6C8FF" />
@@ -49,7 +43,6 @@
       <stop offset="100%" stop-color="#334155" />
     </linearGradient>
 
-    <!-- Clip Path for Custom Typographic Forms to contain the Reflection precisely -->
     <clipPath id="textClip">
       <text x="800" y="240" font-family="'Montserrat', 'Helvetica Neue', 'Arial Black', sans-serif" font-weight="900" font-size="94" letter-spacing="18" text-anchor="middle">MOHAMMAD IRFAN</text>
     </clipPath>
@@ -83,66 +76,51 @@
       100% { transform: translateY(-220px); }
     }
 
-    @keyframes scanBeam {
-      0%, 100% { left: 495px; width: 35px; }
-      20% { left: 495px; width: 35px; }       /* SEO */
-      25% { left: 560px; width: 50px; }       /* Transition */
-      40% { left: 560px; width: 50px; }       /* Azure */
-      45% { left: 640px; width: 55px; }       /* Transition */
-      60% { left: 640px; width: 55px; }       /* CI/CD */
-      65% { left: 725px; width: 44px; }       /* Transition */
-      80% { left: 725px; width: 44px; }       /* MCP */
-      85% { left: 800px; width: 42px; }       /* Transition */
+    @keyframes scanBeamUpdated {
+      0%, 100% { left: 245px; width: 45px; }
+      15% { left: 245px; width: 45px; }       /* SEO */
+      20% { left: 340px; width: 65px; }       /* Transition */
+      35% { left: 340px; width: 65px; }       /* Azure */
+      40% { left: 455px; width: 60px; }       /* Transition */
+      55% { left: 455px; width: 60px; }       /* CI/CD */
+      60% { left: 565px; width: 200px; }      /* Transition */
+      75% { left: 565px; width: 200px; }      /* Model Context Protocol */
+      80% { left: 815px; width: 290px; }      /* Transition */
+      95% { left: 815px; width: 290px; }      /* Retrieval-Augmented Generation */
     }
     
     /* Individual Skill Highlights synchronised precisely with the Scan Beam */
-    @keyframes glowSEO { 0%, 20%, 100% { fill: #FFFFFF; filter: drop-shadow(0 0 6px #5DA8FF); } 25%, 95% { fill: #475569; filter: none; } }
-    @keyframes glowAzure { 0%, 20%, 45%, 100% { fill: #475569; filter: none; } 25%, 40% { fill: #FFFFFF; filter: drop-shadow(0 0 6px #5DA8FF); } }
-    @keyframes glowCICD { 0%, 40%, 65%, 100% { fill: #475569; filter: none; } 45%, 60% { fill: #FFFFFF; filter: drop-shadow(0 0 6px #5DA8FF); } }
-    @keyframes glowMCP { 0%, 60%, 85%, 100% { fill: #475569; filter: none; } 65%, 80% { fill: #FFFFFF; filter: drop-shadow(0 0 6px #5DA8FF); } }
-    @keyframes glowRAG { 0%, 80%, 100% { fill: #475569; filter: none; } 85%, 98% { fill: #FFFFFF; filter: drop-shadow(0 0 6px #5DA8FF); } }
+    @keyframes glowSEO { 0%, 15%, 100% { fill: #FFFFFF; filter: drop-shadow(0 0 6px #5DA8FF); } 20%, 95% { fill: #475569; filter: none; } }
+    @keyframes glowAzure { 0%, 15%, 40%, 100% { fill: #475569; filter: none; } 20%, 35% { fill: #FFFFFF; filter: drop-shadow(0 0 6px #5DA8FF); } }
+    @keyframes glowCICD { 0%, 35%, 60%, 100% { fill: #475569; filter: none; } 40%, 55% { fill: #FFFFFF; filter: drop-shadow(0 0 6px #5DA8FF); } }
+    @keyframes glowMCP { 0%, 55%, 80%, 100% { fill: #475569; filter: none; } 60%, 75% { fill: #FFFFFF; filter: drop-shadow(0 0 6px #5DA8FF); } }
+    @keyframes glowRAG { 0%, 75%, 100% { fill: #475569; filter: none; } 80%, 95% { fill: #FFFFFF; filter: drop-shadow(0 0 6px #5DA8FF); } }
 
     @keyframes slowRotation {
       0% { transform: rotate(0deg); }
       100% { transform: rotate(360deg); }
     }
 
-    @keyframes pulseData {
-      0%, 100% { opacity: 0.3; transform: scale(1); }
-      50% { opacity: 0.9; transform: scale(1.05); }
-    }
-
-    @keyframes lineRadar {
-      0% { stroke-dashoffset: 1000; }
-      100% { stroke-dashoffset: 0; }
-    }
-
     /* Interactive Link States styled completely via native SVG-compatible attributes */
-    .nav-link { text-decoration: none; cubic-bezier: 0.4, 0, 0.2, 1; transition: 0.3s; cursor: pointer; }
+    .nav-link { text-decoration: none; cursor: pointer; }
     .nav-link:hover text { fill: #5DA8FF !important; }
     .nav-link:hover line { stroke-dashoffset: 0 !important; stroke: #A6C8FF !important; }
   </style>
 
-  <!-- ================= BACKGROUND LAYER ================= -->
-  <!-- Solid deep luxury space fill -->
   <rect width="1600" height="500" fill="url(#bgGlitch)" />
 
-  <!-- Procedural Cybernetic Perspective Grid -->
   <g opacity="0.15">
     <g transform="translate(0, 0)">
       <pattern id="gridPattern" width="80" height="60" patternUnits="userSpaceOnUse">
         <path d="M 80 0 L 0 0 0 60" fill="none" stroke="#5DA8FF" stroke-width="1" />
       </pattern>
-      <!-- Matrix of lines moving forward to simulate geometric depth -->
       <rect width="1600" height="600" fill="url(#gridPattern)">
         <animate transform="attributeName" type="XML" attributeName="y" from="0" to="60" dur="2.5s" repeatCount="indefinite" />
       </rect>
     </g>
   </g>
-  <!-- Vignette block to smooth out grid infinity -->
   <rect width="1600" height="500" fill="url(#gridFade)" pointer-events="none" />
 
-  <!-- Data Engine Particles (Slow Ambient Drift) -->
   <g fill="#9DBDFF" opacity="0.4">
     <circle cx="200" cy="120" r="1.5"><animate attributeName="transform" type="translate" values="0,0; 15,-30" dur="7s" repeatCount="indefinite"/></circle>
     <circle cx="150" cy="380" r="2"><animate attributeName="transform" type="translate" values="0,0; -10,-40" dur="9s" repeatCount="indefinite"/></circle>
@@ -151,8 +129,6 @@
     <circle cx="850" cy="60" r="1.5"><animate attributeName="transform" type="translate" values="0,0; 5,-25" dur="8s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- ================= ENGINEERING OVERLAYS & SCI-FI DECORATIONS ================= -->
-  <!-- Technical Coordinates & Blueprint Traces -->
   <g font-family="'Courier New', monospace" font-size="10" fill="#5DA8FF" opacity="0.35" letter-spacing="1">
     <text x="40" y="50">LOC // 1600 : 500</text>
     <text x="40" y="70">SYS // ACTIVE</text>
@@ -160,23 +136,17 @@
     <text x="1440" y="70" text-anchor="end">LRN // CORE_ENGINE</text>
   </g>
 
-  <!-- Geometric Sci-Fi Corner Indicators -->
   <g stroke="#5DA8FF" stroke-width="1.5" fill="none" opacity="0.4">
-    <!-- Top Left -->
     <path d="M 30,60 L 30,30 L 60,30" />
     <circle cx="35" cy="35" r="2" fill="#5DA8FF" />
-    <!-- Top Right -->
     <path d="M 1570,60 L 1570,30 L 1540,30" />
     <circle cx="1565" cy="35" r="2" fill="#5DA8FF" />
-    <!-- Bottom Left -->
     <path d="M 30,440 L 30,470 L 60,470" />
     <circle cx="35" cy="465" r="2" fill="#5DA8FF" />
-    <!-- Bottom Right -->
     <path d="M 1570,440 L 1570,470 L 1540,470" />
     <circle cx="1565" cy="465" r="2" fill="#5DA8FF" />
   </g>
 
-  <!-- Circular Technical Radar Array Left -->
   <g transform="translate(110, 250)" opacity="0.25">
     <circle r="60" fill="none" stroke="#5DA8FF" stroke-width="1" stroke-dasharray="4, 8" style="animation: slowRotation 40s linear infinite;" />
     <circle r="45" fill="none" stroke="#9DBDFF" stroke-width="0.75" />
@@ -184,7 +154,6 @@
     <line x1="-75" y1="0" x2="75" y2="0" stroke="#5DA8FF" stroke-width="0.5" />
   </g>
 
-  <!-- Circular Technical Radar Array Right -->
   <g transform="translate(1490, 250)" opacity="0.25">
     <circle r="80" fill="none" stroke="#5DA8FF" stroke-width="0.75" stroke-dasharray="20, 4" style="animation: slowRotation 30s linear infinite;" />
     <circle r="55" fill="none" stroke="#A6C8FF" stroke-width="1" />
@@ -192,20 +161,12 @@
     <path d="M -40,-40 L 40,40 M -40,40 L 40,-40" stroke="#5DA8FF" stroke-width="0.5" stroke-dasharray="2, 4" />
   </g>
 
-
-  <!-- ================= HERO TYPOGRAPHY LAYER ================= -->
-  <!-- Underlying Dark Metallic Track Layer for Contrast Base -->
   <text x="800" y="240" font-family="'Montserrat', 'Helvetica Neue', 'Arial Black', sans-serif" font-weight="900" font-size="94" letter-spacing="18" text-anchor="middle" fill="#151f32" opacity="0.95">MOHAMMAD IRFAN</text>
 
-  <!-- Masked Animated Shimmer Core -->
   <g clip-path="url(#textClip)">
-    <!-- Base metallic texture backing inside the clip -->
     <rect x="0" y="0" width="1600" height="500" fill="#24334c" />
-    
-    <!-- Moving Luxury Light Strip Container -->
     <g>
       <rect x="-400" y="-400" width="2400" height="1300" fill="url(#titaniumShine)">
-        <!-- 1.5s Execution, 4s Complete Darkness Frame Delay = 5.5s Total Loop Cycle -->
         <animateTransform 
           attributeName="transform" 
           type="translate" 
@@ -221,109 +182,77 @@
     </g>
   </g>
 
-  <!-- Overlaying Explicit Ultra-Thin Borders for Polished Sharp Architectural Finish -->
   <text x="800" y="240" font-family="'Montserrat', 'Helvetica Neue', 'Arial Black', sans-serif" font-weight="900" font-size="94" letter-spacing="18" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="0.75" opacity="0.6" style="mix-blend-mode: overlay;" />
   <text x="800" y="240" font-family="'Montserrat', 'Helvetica Neue', 'Arial Black', sans-serif" font-weight="900" font-size="94" letter-spacing="18" text-anchor="middle" fill="none" stroke="#5DA8FF" stroke-width="0.25" opacity="0.8" filter="url(#subtleGlow)"/>
 
-
-  <!-- ================= ROLES METALLIC VERTICAL REEL ================= -->
   <g transform="translate(800, 310)">
-    <!-- Elegant Upper/Lower Framing Boundary Lines -->
     <line x1="-160" y1="-28" x2="160" y2="-28" stroke="#5DA8FF" stroke-width="1" opacity="0.25" />
     <line x1="-40" y1="-28" x2="40" y2="-28" stroke="#A6C8FF" stroke-width="1.5" opacity="0.7" />
     
     <line x1="-160" y1="18" x2="160" y2="18" stroke="#5DA8FF" stroke-width="1" opacity="0.25" />
     <line x1="-40" y1="18" x2="40" y2="18" stroke="#A6C8FF" stroke-width="1.5" opacity="0.7" />
 
-    <!-- Role Viewport Masking Area -->
     <g clip-path="url(#roleClip)">
       <clipPath id="roleClip">
         <rect x="-300" y="-25" width="600" height="40" />
       </clipPath>
       
-      <!-- Linear Scroll Stack Container -->
-      <!-- 5 items total. Each occupies exactly 45px vertical translation index. -->
-      <!-- Total Cycle Duration: 15 seconds (3s per role) -->
       <g style="animation: reelRotation 15s cubic-bezier(0.76, 0, 0.24, 1) infinite;">
         <text x="0" y="2" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="19" fill="#9DBDFF" letter-spacing="4" text-anchor="middle">SOFTWARE DEVELOPER</text>
         <text x="0" y="47" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="19" fill="#FFFFFF" letter-spacing="4" text-anchor="middle">FULL STACK DEVELOPER</text>
         <text x="0" y="92" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="19" fill="#5DA8FF" letter-spacing="4" text-anchor="middle">AI ENGINEER</text>
         <text x="0" y="137" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="19" fill="#FFFFFF" letter-spacing="4" text-anchor="middle">GENERATIVE AI</text>
         <text x="0" y="182" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="19" fill="#9DBDFF" letter-spacing="4" text-anchor="middle">B.TECH AI &amp; ML STUDENT</text>
-        <!-- Loop Anchor Node -->
         <text x="0" y="227" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="19" fill="#9DBDFF" letter-spacing="4" text-anchor="middle">SOFTWARE DEVELOPER</text>
       </g>
     </g>
   </g>
 
-
-  <!-- ================= CURRENTLY LEARNING LAYER ================= -->
-  <!-- Modular Core Layout Context Matrix -->
-  <g transform="translate(0, 395)">
-    <!-- Context Indicator Label Descriptor -->
-    <text x="415" y="1" font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="11" fill="#5DA8FF" opacity="0.6" letter-spacing="2.5">CURRENTLY LEARNING :</text>
-    
-    <!-- Horizon Navigation Elements Stack -->
-    <g font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="13" letter-spacing="2">
-      <!-- Each text element uses independent keyframe animations tightly synchronized with the scan beam tracker -->
-      <text x="245" y="2" style="animation: glowSEO 15s ease-in-out infinite;">SEO</text>
-      <text x="340" y="2" style="animation: glowAzure 15s ease-in-out infinite;">AZURE</text>
-      <text x="455" y="2" style="animation: glowCICD 15s ease-in-out infinite;">CI/CD</text>
-      <text x="565" y="2" style="animation: glowMCP 15s ease-in-out infinite;">MODEL CONTEXT PROTOCOL</text>
-      <text x="815" y="2" style="animation: glowRAG 15s ease-in-out infinite;">RAG BASED SYSTEMS</text>
-    </g>
-
-    <!-- Absolute Positioning Layout Bar for Scanning Laser Beam -->
-    <!-- Uses nested transformation layout logic representing exact programmatic text coordinates -->
-    <g transform="translate(15, -12)">
-      <!-- Master tracking anchor node -->
-      <!-- X Translation Values correspond directly to step locations -->
-      <path d="M480,0 L520,0" stroke="#5DA8FF" stroke-width="2" fill="none" opacity="0" filter="url(#bloom)">
-        <animate attributeName="opacity" values="0.8;0.8;0.8" dur="15s" repeatCount="indefinite"/>
-      </path>
+  <g transform="translate(800, 400)">
+    <g transform="translate(-565, 0)" font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="11" letter-spacing="2">
+      <text x="0" y="2" fill="#5DA8FF" opacity="0.6">CURRENTLY LEARNING :</text>
       
-      <!-- Precision Laser Line Construct -->
-      <!-- Synchronized timing steps mapping cleanly across the navigation elements -->
-      <line x1="0" y1="23" x2="25" y2="23" stroke="#A6C8FF" stroke-width="2" filter="url(#subtleGlow)">
-        <animate attributeName="x1" values="495; 495; 560; 560; 640; 640; 725; 725; 800; 800; 495" dur="15s" keyTimes="0; 0.20; 0.25; 0.40; 0.45; 0.60; 0.65; 0.80; 0.85; 0.98; 1" calcMode="linear" repeatCount="indefinite" />
-        <animate attributeName="x2" values="530; 530; 610; 610; 695; 695; 769; 769; 842; 842; 530" dur="15s" keyTimes="0; 0.20; 0.25; 0.40; 0.45; 0.60; 0.65; 0.80; 0.85; 0.98; 1" calcMode="linear" repeatCount="indefinite" />
-      </line>
+      <g font-size="11">
+        <text x="245" y="2" style="animation: glowSEO 15s ease-in-out infinite;">SEO</text>
+        <text x="340" y="2" style="animation: glowAzure 15s ease-in-out infinite;">AZURE</text>
+        <text x="455" y="2" style="animation: glowCICD 15s ease-in-out infinite;">CI/CD</text>
+        <text x="565" y="2" style="animation: glowMCP 15s ease-in-out infinite;">MODEL CONTEXT PROTOCOL</text>
+        <text x="815" y="2" style="animation: glowRAG 15s ease-in-out infinite;">RAG BASED SYSTEMS</text>
+      </g>
+
+      <g transform="translate(0, -12)">
+        <line x1="0" y1="23" x2="25" y2="23" stroke="#A6C8FF" stroke-width="2" filter="url(#subtleGlow)">
+          <animate attributeName="x1" values="245; 245; 340; 340; 455; 455; 565; 565; 815; 815; 245" dur="15s" keyTimes="0; 0.15; 0.20; 0.35; 0.40; 0.55; 0.60; 0.75; 0.80; 0.95; 1" calcMode="linear" repeatCount="indefinite" />
+          <animate attributeName="x2" values="290; 290; 405; 405; 515; 515; 765; 765; 1105; 1105; 290" dur="15s" keyTimes="0; 0.15; 0.20; 0.35; 0.40; 0.55; 0.60; 0.75; 0.80; 0.95; 1" calcMode="linear" repeatCount="indefinite" />
+        </line>
+      </g>
     </g>
   </g>
 
-
-  <!-- ================= CONTACT / LINX LINK LAYER ================= -->
-  <!-- Premium Modern Interface Anchors with Embedded Vector Hover Engineering Handles -->
-  <g transform="translate(1120, 395)" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="13" letter-spacing="2.5">
+  <g transform="translate(800, 455)" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="13" letter-spacing="2.5">
     
-    <!-- Link item 1: Portfolio -->
-    <a href="https://irfan.dev" target="_blank" class="nav-link">
-      <text x="0" y="2" fill="#9DBDFF">PORTFOLIO</text>
-      <!-- Base underlying micro-dot indicator -->
-      <circle cx="48" cy="12" r="1" fill="#5DA8FF" opacity="0.3"/>
-      <!-- Premium CSS Controlled Slide Dash Underline -->
-      <line x1="0" y1="9" x2="95" y2="9" stroke="transparent" stroke-width="1.5" stroke-dasharray="95" stroke-dashoffset="95" style="transition: transform 0.4s ease, stroke-dashoffset 0.4s ease;" />
+    <a href="https://your-portfolio.com" target="_blank" class="nav-link" transform="translate(-260, 0)">
+      <text x="0" y="2" fill="#9DBDFF" text-anchor="middle">PORTFOLIO</text>
+      <circle cx="0" cy="12" r="1" fill="#5DA8FF" opacity="0.3"/>
+      <line x1="-55" y1="9" x2="55" y2="9" stroke="transparent" stroke-width="1.5" stroke-dasharray="110" stroke-dashoffset="110" style="transition: transform 0.4s ease, stroke-dashoffset 0.4s ease;" />
     </a>
 
-    <!-- Link item 2: LinkedIn -->
-    <a href="https://linkedin.com" target="_blank" class="nav-link" transform="translate(130, 0)">
-      <text x="0" y="2" fill="#9DBDFF">LINKEDIN</text>
-      <circle cx="40" cy="12" r="1" fill="#5DA8FF" opacity="0.3"/>
-      <line x1="0" y1="9" x2="82" y2="9" stroke="transparent" stroke-width="1.5" stroke-dasharray="82" stroke-dashoffset="82" style="transition: transform 0.4s ease, stroke-dashoffset 0.4s ease;" />
+    <a href="https://linkedin.com/in/your-linkedin" target="_blank" class="nav-link" transform="translate(-90, 0)">
+      <text x="0" y="2" fill="#9DBDFF" text-anchor="middle">LINKEDIN</text>
+      <circle cx="0" cy="12" r="1" fill="#5DA8FF" opacity="0.3"/>
+      <line x1="-45" y1="9" x2="45" y2="9" stroke="transparent" stroke-width="1.5" stroke-dasharray="90" stroke-dashoffset="90" style="transition: transform 0.4s ease, stroke-dashoffset 0.4s ease;" />
     </a>
 
-    <!-- Link item 3: Email -->
-    <a href="mailto:contact@irfan.dev" class="nav-link" transform="translate(245, 0)">
-      <text x="0" y="2" fill="#9DBDFF">EMAIL</text>
-      <circle cx="26" cy="12" r="1" fill="#5DA8FF" opacity="0.3"/>
-      <line x1="0" y1="9" x2="54" y2="9" stroke="transparent" stroke-width="1.5" stroke-dasharray="54" stroke-dashoffset="54" style="transition: transform 0.4s ease, stroke-dashoffset 0.4s ease;" />
+    <a href="mailto:your@email.com" class="nav-link" transform="translate(60, 0)">
+      <text x="0" y="2" fill="#9DBDFF" text-anchor="middle">EMAIL</text>
+      <circle cx="0" cy="12" r="1" fill="#5DA8FF" opacity="0.3"/>
+      <line x1="-30" y1="9" x2="30" y2="9" stroke="transparent" stroke-width="1.5" stroke-dasharray="60" stroke-dashoffset="60" style="transition: transform 0.4s ease, stroke-dashoffset 0.4s ease;" />
     </a>
 
-    <!-- Link item 4: LeetCode -->
-    <a href="https://leetcode.com" target="_blank" class="nav-link" transform="translate(335, 0)">
-      <text x="0" y="2" fill="#9DBDFF">LEETCODE</text>
-      <circle cx="45" cy="12" r="1" fill="#5DA8FF" opacity="0.3"/>
-      <line x1="0" y1="9" x2="92" y2="9" stroke="transparent" stroke-width="1.5" stroke-dasharray="92" stroke-dashoffset="92" style="transition: transform 0.4s ease, stroke-dashoffset 0.4s ease;" />
+    <a href="https://leetcode.com/your-username" target="_blank" class="nav-link" transform="translate(210, 0)">
+      <text x="0" y="2" fill="#9DBDFF" text-anchor="middle">LEETCODE</text>
+      <circle cx="0" cy="12" r="1" fill="#5DA8FF" opacity="0.3"/>
+      <line x1="-50" y1="9" x2="50" y2="9" stroke="transparent" stroke-width="1.5" stroke-dasharray="100" stroke-dashoffset="100" style="transition: transform 0.4s ease, stroke-dashoffset 0.4s ease;" />
     </a>
   </g>
 
