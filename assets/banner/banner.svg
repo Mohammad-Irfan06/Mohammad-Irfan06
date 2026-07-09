@@ -266,7 +266,7 @@
     <!-- Horizon Navigation Elements Stack -->
     <g font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="13" letter-spacing="2">
       <!-- Each text element uses independent keyframe animations tightly synchronized with the scan beam tracker -->
-      <text x="582" y="2" style="animation: glowSEO 15s ease-in-out infinite;">SEO</text>
+      <text x="410" y="2" style="animation: glowSEO 15s ease-in-out infinite;">SEO</text>
       <text x="582" y="2" style="animation: glowAzure 15s ease-in-out infinite;">AZURE</text>
       <text x="668" y="2" style="animation: glowCICD 15s ease-in-out infinite;">CI/CD</text>
       <text x="747" y="2" style="animation: glowMCP 15s ease-in-out infinite;">MCP</text>
