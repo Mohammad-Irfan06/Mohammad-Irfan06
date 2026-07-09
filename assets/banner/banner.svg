@@ -266,11 +266,11 @@
     <!-- Horizon Navigation Elements Stack -->
     <g font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="13" letter-spacing="2">
       <!-- Each text element uses independent keyframe animations tightly synchronized with the scan beam tracker -->
-      <text x="210" y="2" style="animation: glowSEO 15s ease-in-out infinite;">SEO</text>
-      <text x="582" y="2" style="animation: glowAzure 15s ease-in-out infinite;">AZURE</text>
-      <text x="668" y="2" style="animation: glowCICD 15s ease-in-out infinite;">CI/CD</text>
-      <text x="747" y="2" style="animation: glowMCP 15s ease-in-out infinite;">MCP</text>
-      <text x="821" y="2" style="animation: glowRAG 15s ease-in-out infinite;">RAG</text>
+      <text x="245" y="2" style="animation: glowSEO 15s ease-in-out infinite;">SEO</text>
+      <text x="340" y="2" style="animation: glowAzure 15s ease-in-out infinite;">AZURE</text>
+      <text x="455" y="2" style="animation: glowCICD 15s ease-in-out infinite;">CI/CD</text>
+      <text x="565" y="2" style="animation: glowMCP 15s ease-in-out infinite;">MODEL CONTEXT PROTOCOL</text>
+      <text x="815" y="2" style="animation: glowRAG 15s ease-in-out infinite;">RAG BASED SYSTEMS</text>
     </g>
 
     <!-- Absolute Positioning Layout Bar for Scanning Laser Beam -->
