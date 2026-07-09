@@ -1,24 +1,3 @@
-<p align="center">
-  <img src="./assets/banner/banner.svg" width="100%" alt="Mohammad Irfan Banner"/>
-</p>
-
-<div align="center">
-
-# Mohammad Irfan
-
-### Software Developer • Full Stack Developer • AI Engineer
-
-### AI & ML Student • Product Builder
-
-<br>
-
-> Building AI-powered software, SaaS platforms, automation solutions, and modern web applications.
-
-<br>
-
-<table>
-<tr>
-<td align="center">
 
 ### 🚀 Currently Building
 
