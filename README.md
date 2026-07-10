@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner/banner.svg?v=6" width="100%" alt="Mohammad Irfan Banner" />
+</p>
 <!-- ========================= ABOUT ME ========================= -->
 
 About Me
