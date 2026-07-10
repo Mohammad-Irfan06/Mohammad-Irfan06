@@ -50,16 +50,16 @@
     <clipPath id="typeClip1">
       <rect x="0" y="-20" height="40" width="0">
         <animate attributeName="width" dur="25s" repeatCount="indefinite"
-          values="0px;15px;30px;45px;60px;75px;90px;105px;120px;135px;150px;165px;180px;195px;210px;225px;240px;255px;270px;285px;300px"
-          keyTimes="0;0.016;0.032;0.044;0.056;0.064;0.072;0.080;0.088;0.096;0.104;0.112;0.120;0.156;0.224;0.236;0.248;0.260;0.272;0.284;1"/>
+          values="0px;12px;35px;52px;88px;112px;130px;155px;172px;205px;230px;252px;280px;315px;315px;260px;190px;110px;40px;0px;0px"
+          keyTimes="0;0.016;0.032;0.044;0.056;0.064;0.072;0.080;0.088;0.096;0.104;0.112;0.120;0.156;0.224;0.232;0.240;0.244;0.248;0.252;1"/>
       </rect>
     </clipPath>
 
     <clipPath id="typeClip2">
       <rect x="0" y="-20" height="40" width="0">
         <animate attributeName="width" dur="25s" repeatCount="indefinite"
-          values="0px;0px;15px;30px;45px;60px;75px;90px;105px;120px;135px;150px;165px;180px;195px;210px;225px"
-          keyTimes="0;0.212;0.228;0.244;0.256;0.268;0.276;0.284;0.296;0.308;0.324;0.368;0.388;0.396;0.404;0.408;1"/>
+          values="0px;0px;15px;45px;72px;105px;138px;160px;195px;212px;238px;238px;180px;120px;50px;0px;0px"
+          keyTimes="0;0.200;0.216;0.232;0.244;0.256;0.264;0.272;0.284;0.296;0.312;0.356;0.376;0.384;0.392;0.396;1"/>
       </rect>
     </clipPath>
 
@@ -145,8 +145,8 @@
     }
 
     /* Isolated opacity timelines ensuring absolute zero duplicate/overlap visibility */
-    @keyframes slotVisibility1 { 0%, 23.80% { opacity: 1; visibility: visible; } 23.81%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes slotVisibility2 { 0%, 20.80% { opacity: 0; visibility: hidden; } 20.81%, 44.80% { opacity: 1; visibility: visible; } 44.81%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes slotVisibility1 { 0%, 24.99% { opacity: 1; visibility: visible; } 25%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes slotVisibility2 { 0%, 19.99% { opacity: 0; visibility: hidden; } 20%, 44.99% { opacity: 1; visibility: visible; } 45%, 100% { opacity: 0; visibility: hidden; } }
     @keyframes slotVisibility3 { 0%, 39.99% { opacity: 0; visibility: hidden; } 40%, 64.99% { opacity: 1; visibility: visible; } 65%, 100% { opacity: 0; visibility: hidden; } }
     @keyframes slotVisibility4 { 0%, 59.99% { opacity: 0; visibility: hidden; } 60%, 84.99% { opacity: 1; visibility: visible; } 85%, 100% { opacity: 0; visibility: hidden; } }
     @keyframes slotVisibility5 { 0%, 79.99% { opacity: 0; visibility: hidden; } 80%, 99.99% { opacity: 1; visibility: visible; } 100% { opacity: 0; visibility: hidden; } }
@@ -195,8 +195,8 @@
       <rect x="180" y="1" width="2" height="13" fill="#5DA8FF" style="animation: consoleCaretPulse 1.2s ease-in-out infinite;" />
 
       <g transform="translate(0, 36)" font-size="11" font-weight="400" fill="#e2e8f0" fill-opacity="0.75">
-        <g clip-path="url(#typeClip1)" style="animation: slotVisibility1 25s infinite;"><text x="0" y="0" letter-spacing="0">Full Stack Websites...</text></g>
-        <g clip-path="url(#typeClip2)" style="animation: slotVisibility2 25s infinite;"><text x="0" y="0" letter-spacing="0">AI SaaS Applications...</text></g>
+        <g clip-path="url(#typeClip1)" style="animation: slotVisibility1 25s infinite;"><text x="0" y="0" letter-spacing="0">Full Stack Web Applications...</text></g>
+        <g clip-path="url(#typeClip2)"><text x="0" y="0" letter-spacing="0">AI SaaS Applications...</text></g>
         <g clip-path="url(#typeClip3)" style="animation: slotVisibility3 25s infinite;"><text x="0" y="0" letter-spacing="0">Modern Business Websites...</text></g>
         <g clip-path="url(#typeClip4)" style="animation: slotVisibility4 25s infinite;"><text x="0" y="0" letter-spacing="0">AI Automation Solutions...</text></g>
         <g clip-path="url(#typeClip5)" style="animation: slotVisibility5 25s infinite;"><text x="0" y="0" letter-spacing="0">Cross-Platform Applications...</text></g>
