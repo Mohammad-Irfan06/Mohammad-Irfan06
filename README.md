@@ -3,7 +3,7 @@
 </p>
 <!-- ========================= ABOUT ME ========================= -->
 
-About Me
+<h2 align="left"><b>About Me</b></h2>
 
 I'm Mohammad Irfan, a B.Tech Artificial Intelligence & Machine Learning student passionate about building modern software that solves real-world problems.
 
