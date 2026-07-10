@@ -1,26 +1,6 @@
 <p align="center">
   <img src="./assets/banner/banner.svg?v=5" width="100%" alt="Mohammad Irfan Banner"/>
 </p>
-### 🚀 Currently Building
-
-AnimeWorld
-
-AI SaaS Applications
-
-AI Automation Solutions
-
-Full Stack Web Applications
-
-Premium Business Websites
-
-Personal Portfolio Website
-
-</td>
-</tr>
-</table>
-
-<br>
-
 <a href="https://your-portfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -45,42 +25,15 @@ Personal Portfolio Website
 
 <!-- ========================= ABOUT ME ========================= -->
 
-<h2 align="center">👨‍💻 About Me</h2>
+About Me
 
-<p align="center">
-Passionate <b>Software Developer</b> and <b>AI & ML Student</b> focused on building modern software, scalable full stack applications, AI-powered solutions, and automation systems.
-</p>
+I'm Mohammad Irfan, a B.Tech Artificial Intelligence & Machine Learning student passionate about building modern software that solves real-world problems.
 
-<br>
+I enjoy developing Full Stack Web Applications, AI-powered SaaS products, Business Websites, and Automation Solutions while continuously exploring emerging technologies across the software engineering ecosystem.
 
-<table align="center">
-<tr>
-<td>
+I'm currently focused on strengthening my expertise in Software Development, Generative AI, Cloud Technologies, System Design, DevOps, Cybersecurity, and modern engineering practices to build scalable, reliable, and intelligent software.
 
-### 🚀 What I Do
-
-- 💻 Build Full Stack Web Applications
-- 🤖 Develop AI-Powered Solutions
-- ⚡ Create Automation Workflows
-- 🌐 Design Modern Business Websites
-- 📱 Develop Responsive User Experiences
-
-</td>
-
-<td>
-
-### 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- System Design
-- Backend Development
-- Cloud Computing
-- Artificial Intelligence
-- SaaS Architecture
-
-</td>
-</tr>
-</table>
+I believe in continuous learning, embracing new technologies, and expanding my knowledge across different areas of software engineering to create impactful digital solutions.
 
 <h2 align="center">💻 Tech Stack</h2>
 
