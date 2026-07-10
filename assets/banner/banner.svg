@@ -145,8 +145,8 @@
     }
 
     /* Isolated opacity timelines ensuring absolute zero duplicate/overlap visibility */
-    @keyframes slotVisibility1 { 0%, 24.99% { opacity: 1; visibility: visible; } 25%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes slotVisibility2 { 0%, 19.99% { opacity: 0; visibility: hidden; } 20%, 44.99% { opacity: 1; visibility: visible; } 45%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes slotVisibility1 { 0%, 23.80% { opacity: 1; visibility: visible; } 23.81%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes slotVisibility2 { 0%, 20.80% { opacity: 0; visibility: hidden; } 20.81%, 44.80% { opacity: 1; visibility: visible; } 44.81%, 100% { opacity: 0; visibility: hidden; } }
     @keyframes slotVisibility3 { 0%, 39.99% { opacity: 0; visibility: hidden; } 40%, 64.99% { opacity: 1; visibility: visible; } 65%, 100% { opacity: 0; visibility: hidden; } }
     @keyframes slotVisibility4 { 0%, 59.99% { opacity: 0; visibility: hidden; } 60%, 84.99% { opacity: 1; visibility: visible; } 85%, 100% { opacity: 0; visibility: hidden; } }
     @keyframes slotVisibility5 { 0%, 79.99% { opacity: 0; visibility: hidden; } 80%, 99.99% { opacity: 1; visibility: visible; } 100% { opacity: 0; visibility: hidden; } }
