@@ -126,6 +126,40 @@ Developed a desktop application using Python to measure typing speed and typing 
 </p>
 
 ---
+<h2>Coding Profiles</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+---
+<h2>Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
 <h2 align="center">🌱 Current Focus</h2>
 
 <div align="center">
@@ -135,7 +169,6 @@ Developed a desktop application using Python to measure typing speed and typing 
 </div>
 
 ---
-
 <h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
@@ -144,13 +177,5 @@ Developed a desktop application using Python to measure typing speed and typing 
 <a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> •
 <a href="mailto:your.email@example.com">📧 Email</a> •
 <a href="https://leetcode.com/your-username">🧑‍💻 LeetCode</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
 
 </div>
