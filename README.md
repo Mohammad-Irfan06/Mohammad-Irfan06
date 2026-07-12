@@ -142,7 +142,7 @@ Developed a desktop application using Python to measure typing speed and typing 
 <h2>Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/mohammad-irfan-861ba1375/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
