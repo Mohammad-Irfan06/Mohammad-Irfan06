@@ -94,7 +94,7 @@ Developed a desktop application using Python to measure typing speed and typing 
 
 ---
 
-<h2>Software Development</h2>h2>
+<h2>Software Development</h2>
 
 - Building modern Full Stack Web Applications
 - Developing AI-powered software and automation solutions
