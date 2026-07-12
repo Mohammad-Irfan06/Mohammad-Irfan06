@@ -1,8 +1,8 @@
 <p align="center">
   <img src="./assets/banner/banner.svg?v=6" width="100%" alt="Mohammad Irfan Banner" />
 </p>
-<!-- ========================= ABOUT ME ========================= -->
 
+<!-- ========================= ABOUT ME ========================= -->
 <h2 align="left"><b>About Me</b></h2>
 
 I'm Mohammad Irfan, a B.Tech Artificial Intelligence & Machine Learning student passionate about building modern software that solves real-world problems.
