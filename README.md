@@ -11,51 +11,46 @@ I enjoy developing Full Stack Web Applications, AI-powered SaaS products, Busine
 I'm currently focused on strengthening my expertise in Software Development, Generative AI, Cloud Technologies, System Design, DevOps, Rag based systems, and modern engineering practices to build scalable, reliable, and intelligent software.
 I believe in continuous learning, embracing new technologies, and expanding my knowledge across different areas of software engineering to create impactful digital solutions.
 
-<h2 align="center">💻 Tech Stack</h2>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql,mongodb,firebase,postgres" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" />
-
+<h2 align="left">Tech Stack</h2>
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" />
 </p>
 
-<p align="center">
-
-<strong>Languages</strong><br>
-Java • Python • C • JavaScript • SQL
-
-<br><br>
-
-<strong>Frontend</strong><br>
-HTML • CSS • React • Tailwind CSS
-
-<br><br>
-
-<strong>Backend</strong><br>
-Node.js • Express.js • REST APIs
-
-<br><br>
-
-<strong>Databases</strong><br>
-MongoDB • PostgreSQL • MySQL • Firebase
-
-<br><br>
-
-<strong>Tools</strong><br>
-Git • GitHub • VS Code • Postman • Docker • Figma
-
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
 </p>
 
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+  <strong>Generative AI</strong> • <strong>RAG</strong> • <strong>MCP</strong>
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,git,github,docker" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
 ---
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
