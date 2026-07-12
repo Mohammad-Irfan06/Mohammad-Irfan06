@@ -125,15 +125,15 @@ Developed a desktop application using Python to measure typing speed and typing 
 <h2>Coding Profiles</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/mohammad_irfan07/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 
-  <a href="https://www.hackerrank.com/">
+  <a href="https://www.hackerrank.com/profile/mohammad_irfan01">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 
-  <a href="https://www.codechef.com/">
+  <a href="https://www.codechef.com/users/md_irfan02">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
@@ -146,7 +146,7 @@ Developed a desktop application using Python to measure typing speed and typing 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mohammad.irfan5227@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
