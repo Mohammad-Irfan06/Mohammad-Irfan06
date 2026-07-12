@@ -93,9 +93,9 @@ Developed a desktop application using Python to measure typing speed and typing 
 **Tech Stack:** Python • Tkinter
 
 ---
-<h2 align="center">💼 Experience</h2>
+<h2>Experience</h2>
 
-### 🚀 Software Development
+### Software Development
 
 - Building modern Full Stack Web Applications
 - Developing AI-powered software and automation solutions
@@ -116,7 +116,10 @@ Developed a desktop application using Python to measure typing speed and typing 
 ---
 <h2>GitHub Analytics</h2>
 
-<h2>GitHub Analytics</h2>
+<p align="center">
+  <img height="170" src="YOUR_VERCEL_URL/api?username=Mohammad-Irfan06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Mohammad-Irfan06&theme=github-dark&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mohammad-Irfan06&theme=github-dark&hide_border=true"/>
