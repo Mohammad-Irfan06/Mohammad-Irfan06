@@ -154,24 +154,3 @@ Developed a desktop application using Python to measure typing speed and typing 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
----
-<h2 align="center">🌱 Current Focus</h2>
-
-<div align="center">
-
-🧠 AI Engineering • ⚙️ Full Stack Development • ☁️ Cloud Computing • 🏗️ System Design • 🚀 SaaS Development • 🤝 Open Source
-
-</div>
-
----
-<h2 align="center">📫 Connect With Me</h2>
-
-<div align="center">
-
-<a href="https://your-portfolio.com">🌐 Portfolio</a> •
-<a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> •
-<a href="mailto:your.email@example.com">📧 Email</a> •
-<a href="https://leetcode.com/your-username">🧑‍💻 LeetCode</a>
-
-</div>
