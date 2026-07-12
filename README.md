@@ -79,7 +79,7 @@ I believe in continuous learning, embracing new technologies, and expanding my k
 Developed a mobile application using Flutter and Firebase to help farmers with smart farming recommendations and best agricultural practices. Integrated Firebase Authentication and Firestore for secure user management and cloud data storage.
 
 **Tech Stack:** Flutter • Firebase • Firestore
-
+___
 ### EMO – Emotional Mentor & Support
 Built an AI-powered emotional support platform for elderly people as a team project. The application includes voice commands, medicine reminders, messaging, audio/video calling, music player, and journal entries to improve daily well-being.
 
