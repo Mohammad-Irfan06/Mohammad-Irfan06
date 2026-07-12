@@ -114,27 +114,18 @@ Developed a desktop application using Python to measure typing speed and typing 
 - 🏅 Smart India Hackathon (SIH) 2025 – Internal Hackathon Participant
 
 ---
+<h2>GitHub Analytics</h2>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Irfan06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Irfan06&theme=github-dark&hide_border=true" />
+</p>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Irfan06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Irfan06&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mohammad-Irfan06&theme=github-dark-blue&hide_border=true" />
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Irfan06&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
-
 <h2 align="center">🌱 Current Focus</h2>
 
 <div align="center">
