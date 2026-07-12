@@ -12,6 +12,7 @@ I'm currently focused on strengthening my expertise in Software Development, Gen
 I believe in continuous learning, embracing new technologies, and expanding my knowledge across different areas of software engineering to create impactful digital solutions.
 
 <h2 align="left">Tech Stack</h2>
+
 ### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" />
