@@ -29,28 +29,47 @@ I believe in continuous learning, embracing new technologies, and expanding my k
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+</p>
+
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" />
 </p>
 
 ### AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
 </p>
 
 <p>
-  <strong>Generative AI</strong> • <strong>RAG</strong> • <strong>MCP</strong>
+  <strong>Generative AI</strong> •
+  <strong>RAG</strong> •
+  <strong>MCP</strong> •
+  <strong>LangChain</strong> •
+  <strong>OpenAI API</strong>
 </p>
 
 ### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions" />
 </p>
 
-### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+  <strong>CI/CD</strong>
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" />
+</p>
+
+<p>
+  <strong>Google Colab</strong> •
+  <strong>Cursor</strong> •
+  <strong>Claude Code</strong>
 </p>
 ---
 <h2 align="center">🚀 Featured Projects</h2>
