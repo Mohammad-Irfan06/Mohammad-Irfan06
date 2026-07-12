@@ -121,17 +121,6 @@ Developed a desktop application using Python to measure typing speed and typing 
   <img height="170" src="https://streak-stats.demolab.com?user=Mohammad-Irfan06&theme=github-dark&hide_border=true" />
 </p>
 
-<h2>GitHub Analytics</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-brown-seven-57.vercel.app/api?username=Mohammad-Irfan06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&hide=issues,prs" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Mohammad-Irfan06&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Irfan06&theme=github-dark&hide_border=true" />
-</p>
-
 ---
 <h2>Coding Profiles</h2>
 
