@@ -104,14 +104,14 @@ Developed a desktop application using Python to measure typing speed and typing 
 
 <br>
 
-<h2 align="center">🏆 Certifications</h2>
+<h2>Certifications</h2>
 
-- ☁️ Google Cloud Skills Boost – Generative AI
-- 🗄️ HackerRank – SQL (Basic)
-- 🧠 NPTEL – Human Computer Interaction (HCI)
-- 🤖 NPTEL – AI in Human Resource Management
-- 🐍 Udemy – The Complete Python Pro Bootcamp
-- 💡 Smart India Hackathon (SIH) – Internal Hackathon Participant
+- 🏅 Generative AI – Google Cloud Skills Boost
+- 🏅 SQL (Basic) – HackerRank
+- 🏅 Human Computer Interaction (HCI) – NPTEL
+- 🏅 AI in Human Resource Management – NPTEL
+- 🏅 The Complete Python Pro Bootcamp – Udemy
+- 🏅 Smart India Hackathon (SIH) 2025 – Internal Hackathon Participant
 
 ---
 
