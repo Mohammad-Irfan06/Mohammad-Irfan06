@@ -45,11 +45,11 @@ I believe in continuous learning, embracing new technologies, and expanding my k
 </p>
 
 <p>
-  <strong>Generative AI</strong> •
-  <strong>RAG</strong> •
-  <strong>MCP</strong> •
-  <strong>LangChain</strong> •
-  <strong>OpenAI API</strong>
+  <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### Cloud & DevOps
@@ -58,7 +58,7 @@ I believe in continuous learning, embracing new technologies, and expanding my k
 </p>
 
 <p>
-  <strong>CI/CD</strong>
+  <img src="https://img.shields.io/badge/CI%2FCD-0EA5E9?style=for-the-badge" />
 </p>
 
 ### Tools & Platforms
@@ -67,9 +67,9 @@ I believe in continuous learning, embracing new technologies, and expanding my k
 </p>
 
 <p>
-  <strong>Google Colab</strong> •
-  <strong>Cursor</strong> •
-  <strong>Claude Code</strong>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 ---
 <h2 align="center">🚀 Featured Projects</h2>
