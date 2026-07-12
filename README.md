@@ -8,7 +8,7 @@
 I'm Mohammad Irfan, a B.Tech Artificial Intelligence & Machine Learning student passionate about building modern software that solves real-world problems.
 I enjoy developing Full Stack Web Applications, AI-powered SaaS products, Business Websites, and Automation Solutions while continuously exploring emerging technologies across the software engineering ecosystem.
 
-I'm currently focused on strengthening my expertise in Software Development, Generative AI, Cloud Technologies, System Design, DevOps, Rag Based Systems, and modern engineering practices to build scalable, reliable, and intelligent software.
+I'm currently focused on strengthening my expertise in Software Development, Generative AI, Cloud Technologies, System Design, DevOps, RAG-based Systems, and modern engineering practices to build scalable, reliable, and intelligent software.
 I believe in continuous learning, embracing new technologies, and expanding my knowledge across different areas of software engineering to create impactful digital solutions.
 
 ----
