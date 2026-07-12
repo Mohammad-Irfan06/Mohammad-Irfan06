@@ -82,20 +82,17 @@ Developed a mobile application using Flutter and Firebase to help farmers with s
 
 ---
 ### EMO – Emotional Mentor & Support
-
 Built an AI-powered emotional support platform for elderly people as a team project. The application includes voice commands, medicine reminders, messaging, audio/video calling, music player, and journal entries to improve daily well-being.
 
 **Tech Stack:** Python • AI • Voice Assistant
 
 ---
-
 ### Typing Speed Test App
 Developed a desktop application using Python to measure typing speed and typing accuracy in real time through an interactive graphical user interface.
 
 **Tech Stack:** Python • Tkinter
 
 ---
-
 <h2 align="center">💼 Experience</h2>
 
 ### 🚀 Software Development
