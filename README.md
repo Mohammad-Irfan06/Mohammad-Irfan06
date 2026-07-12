@@ -139,6 +139,14 @@ Developed a desktop application using Python to measure typing speed and typing 
 </p>
 
 ---
+<h2>Currently Exploring</h2>
+
+- Open Source
+- Product Development
+- AI Innovation
+- Tech Communities
+
+---
 <h2>Connect With Me</h2>
 
 <p align="center">
