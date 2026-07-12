@@ -93,7 +93,6 @@ Developed a desktop application using Python to measure typing speed and typing 
 **Tech Stack:** Python • Tkinter
 
 ---
-
 <h2>Software Development</h2>
 
 - Building modern Full Stack Web Applications
@@ -101,8 +100,7 @@ Developed a desktop application using Python to measure typing speed and typing 
 - Designing responsive and scalable user interfaces
 - Creating real-world software projects with modern technologies
 
-<br>
-
+---
 <h2>Certifications</h2>
 
 - 🏅 Generative AI – Google Cloud Skills Boost
