@@ -93,7 +93,6 @@ Developed a desktop application using Python to measure typing speed and typing 
 **Tech Stack:** Python • Tkinter
 
 ---
-<h2>Experience</h2>
 
 ### Software Development
 
