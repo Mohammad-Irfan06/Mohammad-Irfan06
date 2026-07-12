@@ -10,9 +10,7 @@ I enjoy developing Full Stack Web Applications, AI-powered SaaS products, Busine
 
 I'm currently focused on strengthening my expertise in Software Development, Generative AI, Cloud Technologies, System Design, DevOps, Rag based systems, and modern engineering practices to build scalable, reliable, and intelligent software.
 I believe in continuous learning, embracing new technologies, and expanding my knowledge across different areas of software engineering to create impactful digital solutions.
-
 ----
-
 <h2 align="left">Tech Stack</h2>
 
 ### Programming Languages
