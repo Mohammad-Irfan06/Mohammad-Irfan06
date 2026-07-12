@@ -71,111 +71,29 @@ I believe in continuous learning, embracing new technologies, and expanding my k
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
+
 ---
-<h2 align="center">🚀 Featured Projects</h2>
+<h2>Projects</h2>
+---
 
-<table>
-<tr>
+### AgroAssist – AI-Based Smart Farming Advisor
+Developed a mobile application using Flutter and Firebase to help farmers with smart farming recommendations and best agricultural practices. Integrated Firebase Authentication and Firestore for secure user management and cloud data storage.
 
-<td width="50%">
+**Tech Stack:** Flutter • Firebase • Firestore
 
-### 🎬 AnimeWorld
+---
 
-A modern anime platform focused on delivering a premium user experience with clean UI, responsive design, advanced search, watchlist, and scalable architecture.
+### EMO – Emotional Mentor & Support
+Built an AI-powered emotional support platform for elderly people as a team project. The application includes voice commands, medicine reminders, messaging, audio/video calling, music player, and journal entries to improve daily well-being.
 
-**Tech Stack**
+**Tech Stack:** Python • AI • Voice Assistant
 
-HTML • CSS • JavaScript • API
+---
 
-🔗 Live Demo *(Coming Soon)*
+### Typing Speed Test App
+Developed a desktop application using Python to measure typing speed and typing accuracy in real time through an interactive graphical user interface.
 
-📂 Source Code *(Private)*
-
-</td>
-
-<td width="50%">
-
-### 🌐 Business Website
-
-A premium business website focused on modern UI/UX, responsive layouts, SEO, and high-converting landing pages for businesses.
-
-**Tech Stack**
-
-React • Tailwind CSS • JavaScript
-
-🔗 Live Demo *(Coming Soon)*
-
-📂 Source Code *(Private)*
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🌾 AgroAssist
-
-AI-powered farming advisor that helps farmers with crop guidance, Firebase authentication, and smart recommendations.
-
-**Tech Stack**
-
-Flutter • Firebase
-
-🔗 Live Demo *(Coming Soon)*
-
-📂 Source Code
-
-</td>
-
-<td width="50%">
-
-### 🤖 EMO
-
-An AI-based emotional support application with voice interaction, reminders, chat, music, and wellness features.
-
-**Tech Stack**
-
-Python • AI
-
-🔗 Live Demo *(Coming Soon)*
-
-📂 Source Code
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ⌨️ Typing Speed Test
-
-Desktop application to measure typing speed and accuracy with real-time performance tracking.
-
-**Tech Stack**
-
-Python
-
-🔗 Live Demo *(Coming Soon)*
-
-📂 Source Code
-
-</td>
-
-<td width="50%">
-
-### 🚧 More Projects
-
-Currently building AI-powered SaaS products, automation tools, and modern full-stack applications.
-
-</td>
-
-</tr>
-
-</table>
+**Tech Stack:** Python • Tkinter
 
 ---
 
