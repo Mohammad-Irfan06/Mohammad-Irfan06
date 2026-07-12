@@ -74,7 +74,6 @@ I believe in continuous learning, embracing new technologies, and expanding my k
 
 ---
 <h2>Projects</h2>
----
 
 ### AgroAssist – AI-Based Smart Farming Advisor
 Developed a mobile application using Flutter and Firebase to help farmers with smart farming recommendations and best agricultural practices. Integrated Firebase Authentication and Firestore for secure user management and cloud data storage.
