@@ -80,8 +80,6 @@ Developed a mobile application using Flutter and Firebase to help farmers with s
 
 **Tech Stack:** Flutter • Firebase • Firestore
 
----
-
 ### EMO – Emotional Mentor & Support
 Built an AI-powered emotional support platform for elderly people as a team project. The application includes voice commands, medicine reminders, messaging, audio/video calling, music player, and journal entries to improve daily well-being.
 
